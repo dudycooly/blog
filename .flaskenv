@@ -1,1 +1,9 @@
-FLASK_APP=microblog.py
+FLASK_APP=blog.py
+FLASK_DEBUG=1
+#FLASK_ENV=development
+
+MAIL_SERVER=smtp.googlemail.com
+MAIL_PORT=587
+MAIL_USE_TLS=1
+MAIL_USERNAME=jp.the.qa
+MAIL_PASSWORD=G00dluck2u
